@@ -28,3 +28,35 @@ body {
 }
 
 /* Game area */
+
+.game-area {
+    background: #fff;
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 150px;
+    border: 5px solid #000;
+    border-radius: 15px;
+    padding: 30px;
+}
+
+.game-area h1 {
+    font-size: 22px;
+    color: #000;
+    border-bottom: 1px solid #000;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.quiz h2 {
+    font-size: 18px;
+    color: #000;
+    text-align: center;
+}
+
+#questions {
+    padding: 20px;
+}
+
+/* Buttons */
+
+/* Footer and social media icons */
