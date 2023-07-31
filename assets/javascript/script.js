@@ -30,6 +30,13 @@ const questions = [
 
 // Variables for game area
 
+let currentQuestionIndex = 0;
+let score = 0;
+
+const questionElement = document.getElementById("question");
+const answerButtons = document.getElementById("answer-buttons");
+const nextButton = document.getElementById("next-btn");
+
 // Start quiz function
 
 // Reset answers inside the answer buttons
