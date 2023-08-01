@@ -46,7 +46,7 @@ nextButton.innerHTML = "Next";
 showQuestion();
 }
 
-// Reset answers inside answer-buttons
+// Reset answers inside answer-buttons and question
 
 function showQuestion() {
     resetState();
@@ -120,5 +120,5 @@ function showScore() {
     resetState();
     questionElement.innerHTML = `You scored ${score} out of 3!`;
     nextButton.innerHTML = "Play Again";
-    nextButton.style.dispaly = "block";
+    nextButton.style.display = "block";
 }
