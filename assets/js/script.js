@@ -86,5 +86,15 @@ function handleNextButton() {
     }
 }
 
+nextButton.addEventListener("click", () => {
+    if (currentQuestionIndex < question.length) {
+        handleNextButton();
+    } else {
+        startQuiz();
+    }
+});
+
+startQuiz();
+
 // Show score function
 
