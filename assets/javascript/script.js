@@ -39,7 +39,14 @@ const nextButton = document.getElementById("next-btn");
 
 // Start quiz function
 
-// Reset answers inside the answer buttons
+function startQuiz() {
+currentQuestionIndex = 0;
+score = 0;
+nextButton.innerHTML = "Next";
+showQuestion();
+}
+
+// Reset answers inside answer-buttons
 
 // Checking for the right and wrong answers 
 
