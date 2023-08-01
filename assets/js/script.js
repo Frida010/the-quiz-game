@@ -105,7 +105,7 @@ function handleNextButton() {
 }
 
 nextButton.addEventListener("click", () => {
-    if (currentQuestionIndex < question.length) {
+    if (currentQuestionIndex < questions.length) {
         handleNextButton();
     } else {
         startQuiz();
@@ -116,3 +116,9 @@ startQuiz();
 
 // Show score function
 
+function showScore() {
+    resetState();
+    questionElement.innerHTML = `You scored ${score} out of 3!`;
+    nextButton.innerHTML = "Play Again";
+    nextButton.style.dispaly = "block";
+}
