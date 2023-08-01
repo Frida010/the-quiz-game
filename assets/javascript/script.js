@@ -48,6 +48,13 @@ showQuestion();
 
 // Reset answers inside answer-buttons
 
+function showQuestion() {
+    resetState();
+    let currentQuestion = questions[currentQuestionIndex];
+    let questionNo = currentQuestionIndex + 1;
+    questionElement.innerHTML = questionNo + ". " + currentQuestion.question; 
+}
+
 // Checking for the right and wrong answers 
 
 // Next buttons function
