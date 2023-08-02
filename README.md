@@ -113,5 +113,7 @@ The live link can be found here - [Quiz Game](https://frida010.github.io/the-qui
 
 ### Media
 
+- The icons in the footer were taken from [Font awesome](https://fontawesome.com/).
+- The favicon in the browser were taken from [Favicon.cc](https://www.favicon.cc/?action=icon&file_id=986511)
 
-https://www.favicon.cc/?action=icon&file_id=986511 
+ 
