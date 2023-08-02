@@ -13,6 +13,13 @@ The website contains a header and a footer. The footer contains icons with links
 
 ## Features
 
+#### - Favicon
+
+- Featured in the web browser is a small heart, the favicon did work before I deployed the website to github. But after the deployment it seems to not work. 
+
+![Screenshot of the favicon](https://user-images.githubusercontent.com/129947589/257761171-66ad6c29-948e-4de5-977c-6ee06235900b.png)
+
+
 #### - Header
 
 - Featured at the top at the page is the header. The header does not have any features it does only display the name, which makes it more apparant for the user what game they are playing.
