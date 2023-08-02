@@ -110,6 +110,12 @@ The live link can be found here - [Quiz Game](https://frida010.github.io/the-qui
 - I used [Simple Steps Code](https://simplestepscode.com/javascript-quiz-tutorial/) as inspiration with how to make a quiz game.
 - I also used [Geeks for geeks](https://www.geeksforgeeks.org/how-to-create-a-simple-javascript-quiz/) to help me with the javascript in this project.
 - In the process of making this game I used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:509fe98a,vid:p-2G-7vLuV4) from Coding artist as help.
+- I also used this [Youtube video](https://www.google.com/search?q=how+to+make+a+quiz+in+javascript&oq=how+to+make+a+quiz&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIGCAYQRRhBMgYIBxBFGEHSAQg4MzUyajBqN6gCALACAA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:370e1017,vid:riDzcEQbX6k) from Web Dev Simplified as help with the javascript code writing.
+- This [Youtube video](https://www.youtube.com/watch?v=-cX5jnQgqSM&ab_channel=GeekProbin) from GeekProbin was used as help when making this quiz game.
+- And this [Youtube video](https://www.youtube.com/watch?v=pQr4O1OITJo&t=146s&ab_channel=CodingNepal) from CodingNepal was used to help me when making this quiz game.
+- I used this [Youtube video](https://www.youtube.com/watch?v=MxrGPP4F8Sc&ab_channel=Keepcoding) from Keep coding when making this quiz game as help.
+- This [Youtube video](https://www.youtube.com/watch?v=xZXW5SnCiWI&ab_channel=AliAslan) from Ali Aslan was used for insiration to maybe in the future make a timer function.
+- In the process of making this quiz game I also used the [Python Tutor code visualiser](https://pythontutor.com/javascript.html#mode=edit).
 
 ### Media
 
