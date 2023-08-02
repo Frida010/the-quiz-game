@@ -5,6 +5,8 @@ The quiz has three questions in total and has three options per question.
 The questions are fun, and why not test your knowledge against friends? 
 At the end of the game the user will get a score of how many points the person got in total and a choice to play again if wanted. 
 
+The Quiz game is targeted towards adults and children as a fun way to test your knowledge about coding
+
 The website contains a header and a footer. The footer contains icons with links to social media and invites the user to interact.
 
 ![Screenshot of the website on diffrent screen sizes](https://user-images.githubusercontent.com/129947589/257799226-e3222ec0-2534-4520-94cd-6e99b689dfbf.png)
@@ -28,7 +30,7 @@ The website contains a header and a footer. The footer contains icons with links
 ![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/257763227-ab33b021-1cde-4e60-a0a0-246267f6d715.png)
 ![Screenshot of the quiz area with hower effect](https://user-images.githubusercontent.com/129947589/257760813-742039de-a288-4b3e-be7d-69ddc795b5a3.png)
 
-- When the user has made a decision the button with the right answer will light up in a green color and the wrong answer in a red color (if the user picked the wrong answer).
+- When the user has made a decision the button with the correct answer will light up in a green color and the wrong answer in a red color (if the user picked the wrong answer).
 - When a choice is made, a button with the text "Next" will appear for the user to click on and continue to the next question.
 
 ![Screenshot of the quiz area whit wrong answer selected](https://user-images.githubusercontent.com/129947589/257760858-9636acc6-54ce-4104-9a42-21ea2497b4ba.png)
@@ -103,6 +105,7 @@ The live link can be found here - [Quiz Game](https://frida010.github.io/the-qui
 ### Content
 
 - In the process of making this webpage I have used [Code Institutes](https://codeinstitute.net/) videos and course material as help with how to write some of the code and to remind me how the code works both css and javascript.
+- I used [W3Schools](https://www.w3schools.com/css/css3_gradients.asp) and their CSS Gradients lesson as help when making the gradient background of the webpage. 
 - I used [W3Schools](https://www.w3schools.com/jsref/jsref_foreach.asp) and their JavaScript Array forEach() lesson as help on that part of the code.
 - Used [W3Schools](https://www.w3schools.com/js/js_if_else.asp) and their JavaScript if, else, and else if lesson to remind me of how to write that code.
 - Reminder of how to make JavaScript Array forEach() I looked on [W3Schools](https://www.w3schools.com/jsref/jsref_foreach.asp).
@@ -121,5 +124,6 @@ The live link can be found here - [Quiz Game](https://frida010.github.io/the-qui
 
 - The icons in the footer were taken from [Font awesome](https://fontawesome.com/).
 - The favicon in the browser were taken from [Favicon.cc](https://www.favicon.cc/?action=icon&file_id=986511)
+
 
  
