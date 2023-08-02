@@ -63,18 +63,20 @@ The website contains a header and a footer. The footer contains icons with links
 
 ### Bugs
 
+- One bug that I have discovered when working on this project is that I had spelled one word wrong (dispaly insted of display). It caused the next button function to not work as expected. 
+- After fixing that problem, the quiz worked good. 
+
 ### Validator Testing
 
 ##### - HTML
-
-[W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrida010.github.io%2Fthe-quiz-game%2F)
+- One error that was found when passing through the validator was that the favicon link was broken and did not work properly. 
+![Screenshot of the error message](https://user-images.githubusercontent.com/129947589/257799315-203a9a8b-ef07-491c-a649-1a1346d38236.png)
+- After fixing that problem, no error message were returned from the [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrida010.github.io%2Fthe-quiz-game%2F)
 
 ##### - CSS
-
 - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffrida010.github.io%2Fthe-quiz-game%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ##### - JAVASCRIPT
-
 - No errors were found when passing through the official [Jshint validator](https://jshint.com/), however I did get some warnings.
 - The following metrics were returned:
 - There are 9 functions in this file.
@@ -83,6 +85,8 @@ The website contains a header and a footer. The footer contains icons with links
 - The most complex function has a cyclomatic complexity value of 2 while the median is 2.
 
 ### Unfixed bugs
+
+- I do not have any unfixed bugs on this website. 
 
 ## Deployment
 
