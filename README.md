@@ -7,7 +7,7 @@ At the end of the game the user will get a score of how many points the person g
 
 The website contains a header and a footer. The footer contains icons with links to social media and invites the user to interact.
 
-![Screenshot of the website on diffrent screen sizes]()
+![Screenshot of the website on diffrent screen sizes](https://user-images.githubusercontent.com/129947589/257799226-e3222ec0-2534-4520-94cd-6e99b689dfbf.png)
 
 ## Features
 
@@ -59,7 +59,7 @@ The website contains a header and a footer. The footer contains icons with links
 
 - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
 
-![Screenshot of the lighthouse]()
+![Screenshot of the lighthouse](https://user-images.githubusercontent.com/129947589/257808095-c8d8b829-1682-4018-936d-fd17d91fea0c.png)
 
 ### Bugs
 
@@ -67,11 +67,20 @@ The website contains a header and a footer. The footer contains icons with links
 
 ##### - HTML
 
+[W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffrida010.github.io%2Fthe-quiz-game%2F)
+
 ##### - CSS
 
 - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffrida010.github.io%2Fthe-quiz-game%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ##### - JAVASCRIPT
+
+- No errors were found when passing through the official [Jshint validator](https://jshint.com/), however I did get some warnings.
+- The following metrics were returned:
+- There are 9 functions in this file.
+- Function with the largest signature take 1 arguments, while the median is 0.
+- Largest function has 8 statements in it, while the median is 4.
+- The most complex function has a cyclomatic complexity value of 2 while the median is 2.
 
 ### Unfixed bugs
 
