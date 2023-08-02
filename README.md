@@ -24,8 +24,10 @@ The website contains a header and a footer. The footer contains icons with links
 - The buttons have a hover effect that lights up the button the mouse hovers over.
 - The quiz area has one question and three options for the user to choose from.
 - The buttons have a hover effect that lights up the button the mouse hovers over.
+
 ![Screenshot of the quiz area](https://user-images.githubusercontent.com/129947589/257763227-ab33b021-1cde-4e60-a0a0-246267f6d715.png)
 ![Screenshot of the quiz area with hower effect](https://user-images.githubusercontent.com/129947589/257760813-742039de-a288-4b3e-be7d-69ddc795b5a3.png)
+
 - When the user has made a decision the button with the right answer will light up in a green color and the wrong answer in a red color (if the user picked the wrong answer).
 - When a choice is made, a button with the text "Next" will appear for the user to click on and continue to the next question.
 
@@ -34,7 +36,7 @@ The website contains a header and a footer. The footer contains icons with links
 - When the quiz is over and all the questions are answered, the user will get a message saying "You scored ... out of 3!".
 - On this last page the button will also have changed and have a text saying "Play Again" and now the user can make the choice to play again if wanted.
 
-![Screenshot of the score board at the end of the game]()
+![Screenshot of the score board at the end of the game](https://user-images.githubusercontent.com/129947589/257760916-eda875e1-7bfb-48d8-a66b-2f6c60d7d95e.png)
 
 #### - Footer
 
@@ -67,6 +69,8 @@ The website contains a header and a footer. The footer contains icons with links
 
 ##### - CSS
 
+- No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffrida010.github.io%2Fthe-quiz-game%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
 ##### - JAVASCRIPT
 
 ### Unfixed bugs
@@ -79,7 +83,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 - From the source section drop-down menu, select the Master Branch
 - Once the master branch has been selected, the page provided the link to the completed website.
 
-The live link can be found here - [Quiz Game]()
+The live link can be found here - [Quiz Game](https://frida010.github.io/the-quiz-game/)
 
 ## Credits
 
