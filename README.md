@@ -15,7 +15,7 @@ The website contains a header and a footer. The footer contains icons with links
 
 #### - Favicon
 
-- Featured in the web browser is a small heart, the favicon did work before I deployed the website to github. But after the deployment it seems to not work. 
+- Featured in the web browser is a small heart, the favicon does work when opening the website through the port in [Codeanywere](https://codeanywhere.com/signin). But after the deployment it does not work for me.  
 
 ![Screenshot of the favicon](https://user-images.githubusercontent.com/129947589/257761171-66ad6c29-948e-4de5-977c-6ee06235900b.png)
 
